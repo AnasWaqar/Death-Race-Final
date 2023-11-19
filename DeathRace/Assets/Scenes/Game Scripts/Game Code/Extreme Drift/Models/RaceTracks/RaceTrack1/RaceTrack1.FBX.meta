@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1729df978ee7065469a029c9b9f9cce2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ground02
+    100002: RaceTrack
+    100004: //RootNode
+    100006: Wall01
+    100008: Wall02
+    100010: Curve001
+    100012: Curve002
+    100014: Collider
+    100016: Object001
+    400000: Ground02
+    400002: RaceTrack
+    400004: //RootNode
+    400006: Wall01
+    400008: Wall02
+    400010: Curve001
+    400012: Curve002
+    400014: Collider
+    400016: Object001
+    2300000: Ground02
+    2300002: RaceTrack
+    2300004: Wall01
+    2300006: Wall02
+    2300008: Curve001
+    2300010: Curve002
+    2300012: Collider
+    2300014: Object001
+    3300000: Ground02
+    3300002: RaceTrack
+    3300004: Wall01
+    3300006: Wall02
+    3300008: Curve001
+    3300010: Curve002
+    3300012: Collider
+    3300014: Object001
+    4300000: Wall01
+    4300002: Wall02
+    4300004: Ground02
+    4300006: RaceTrack
+    4300008: Curve001
+    4300010: Curve002
+    4300012: Collider
+    4300014: Object001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: cba60cc8c692420489c7598e815a446b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 042b12d839b52174a98562d31ee738f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground
+    second: {fileID: 2100000, guid: 93b7d5e214938304f862183c0981a226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground2
+    second: {fileID: 2100000, guid: e7e1d6f242429d94b852b14c479a0c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material1
+    second: {fileID: 2100000, guid: c2494c2d58a477d439a528311eea7d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material10
+    second: {fileID: 2100000, guid: f9e99bccc3963c3459a4a8047d87e098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material11
+    second: {fileID: 2100000, guid: db894f0805a2f414db25569f08fee426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material2
+    second: {fileID: 2100000, guid: 993d815a1fc1bac489ba0d95dc0c34e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material4
+    second: {fileID: 2100000, guid: 405d32d2d589dea449ec2b9879761809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material5
+    second: {fileID: 2100000, guid: 5f8dddb5ddb3ca641800fb92e40cb1c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material6
+    second: {fileID: 2100000, guid: fbc2858421ae24f439f463b1d4058667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material7
+    second: {fileID: 2100000, guid: ce293d9cb7321f44bb0a366baf7692a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material8
+    second: {fileID: 2100000, guid: 8e00ac07cc0500442956fb9db4806ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material9
+    second: {fileID: 2100000, guid: 7f0aa04c2e5ecac43af5119f491a385b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ramp
+    second: {fileID: 2100000, guid: e0394587091c37246b296a89d53ff04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: ca2a5140d9892f44b9e12e3c5615192b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

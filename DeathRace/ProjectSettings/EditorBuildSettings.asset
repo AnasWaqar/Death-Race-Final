@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Levels/CarMenu.unity
+    guid: 2d3eed972fe24c94c96f4c57e774de56
+  - enabled: 1
+    path: Assets/Scenes/Levels/forest level 1.unity
+    guid: f879b06545f80bd41b62e3844049c4de
+  - enabled: 1
+    path: Assets/Scenes/Levels/forest level 4.unity
+    guid: a23f60b0716c9c747a7e8d46170e4807
+  - enabled: 1
+    path: Assets/Scenes/Levels/forest level 2.unity
+    guid: 5c3a8f48af425e74f9b51a6e1d332e09
+  - enabled: 1
+    path: Assets/Scenes/Levels/forest level 3.unity
+    guid: 2a2d86bf56ca1514b8f626edff910413
+  - enabled: 1
+    path: Assets/Scenes/Levels/forest level 5.unity
+    guid: 68885c5bb56d650438e11b0e6e8d1011
+  m_configObjects: {}
